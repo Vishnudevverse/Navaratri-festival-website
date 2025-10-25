@@ -1,7 +1,5 @@
 
-  # Navaratri Festival Website UI Kit
-
-  This is a code bundle for Navaratri Festival Website UI Kit. The original project is available at https://www.figma.com/design/XIqqbOmlAUtVmJxScVOKI1/Navaratri-Festival-Website-UI-Kit.
+  # You can find the hosted website here: [Visit](https://light-stop-38568911.figma.site/)
 
   ## Running the code
 
